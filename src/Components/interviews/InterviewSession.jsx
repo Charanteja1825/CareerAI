@@ -1,0 +1,9 @@
+onComplete({
+  session_type,
+  duration,
+  confidence_level,
+  stress_level,
+  communication_clarity,
+  overall_score,
+  questions_answered
+});
